@@ -1,1 +1,1 @@
-#Will open to public when paper is finally published.
+#Dataset used for validation is stored in "dataset"
